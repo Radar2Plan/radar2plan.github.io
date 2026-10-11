@@ -1,0 +1,23 @@
+{
+  "name": "radar2plan-project-site",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "dev": "astro dev --host 127.0.0.1 --port 8010",
+    "build": "astro build",
+    "preview": "astro preview --host 127.0.0.1 --port 8010",
+    "check": "astro check",
+    "prepare:assets": "node scripts/fetch-public-assets.mjs --output-dir public"
+  },
+  "dependencies": {
+    "astro": "5.16.6"
+  },
+  "devDependencies": {
+    "@astrojs/check": "0.9.6",
+    "typescript": "5.9.3"
+  }
+}

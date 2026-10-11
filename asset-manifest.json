@@ -1,0 +1,211 @@
+{
+  "repository": "YaoLING1111/YaoLingHomePage",
+  "commit": "faa75c624af0a91fdbabd55dc3301a3375e078ef",
+  "assets": [
+    {
+      "path": "assets/radar2plan/conditions-figure4.webp",
+      "size": 319334,
+      "git_blob_sha1": "6c8b94a475b562adda127a7963497c83bcc665a8"
+    },
+    {
+      "path": "assets/radar2plan/demos/fusion-dsert-heavy-rain-sparse-query.jpg",
+      "size": 156914,
+      "git_blob_sha1": "9aace48862ca0ee59f5df982bd97c6c7f6ea7844"
+    },
+    {
+      "path": "assets/radar2plan/demos/fusion-dsert-heavy-rain-sparse-query.mp4",
+      "size": 2430530,
+      "git_blob_sha1": "35c3f3538b772aecb543c683aef1adacf5733f1e"
+    },
+    {
+      "path": "assets/radar2plan/demos/fusion-dsert-light-snow-diffusion.jpg",
+      "size": 199762,
+      "git_blob_sha1": "3d1d1aed58b66714d05f6a021f3aaf72c3c83e4e"
+    },
+    {
+      "path": "assets/radar2plan/demos/fusion-dsert-light-snow-diffusion.mp4",
+      "size": 2371193,
+      "git_blob_sha1": "1502131efac10cb85f37d1e11bcdc27819d086f7"
+    },
+    {
+      "path": "assets/radar2plan/demos/fusion-man-dark-gru.jpg",
+      "size": 160648,
+      "git_blob_sha1": "6d3aba7baca6523b9207b701d9880a915591d4e0"
+    },
+    {
+      "path": "assets/radar2plan/demos/fusion-man-dark-gru.mp4",
+      "size": 2403061,
+      "git_blob_sha1": "724312c58e2f53c3d1900d894534606a6e625381"
+    },
+    {
+      "path": "assets/radar2plan/demos/fusion-man-overcast-gru.jpg",
+      "size": 290429,
+      "git_blob_sha1": "10959e962a79763c28f73fae9cd9b1d00c6256cf"
+    },
+    {
+      "path": "assets/radar2plan/demos/fusion-man-overcast-gru.mp4",
+      "size": 2398354,
+      "git_blob_sha1": "ecae504613430a863aaebc8dcff4741d91b1983e"
+    },
+    {
+      "path": "assets/radar2plan/demos/planning-dsert-heavy-rain-diffusion.jpg",
+      "size": 102929,
+      "git_blob_sha1": "7b37728a7e499c8791f8b7ad48a23702e179bea6"
+    },
+    {
+      "path": "assets/radar2plan/demos/planning-dsert-heavy-rain-diffusion.mp4",
+      "size": 2800157,
+      "git_blob_sha1": "ca0a0b54fef28b67f700cffd5f05a6f7801df287"
+    },
+    {
+      "path": "assets/radar2plan/demos/planning-dsert-heavy-snow-sparse-query.jpg",
+      "size": 102035,
+      "git_blob_sha1": "91af45946fd1eae2cbb249d8c6b51f402f5cd78d"
+    },
+    {
+      "path": "assets/radar2plan/demos/planning-dsert-heavy-snow-sparse-query.mp4",
+      "size": 1814126,
+      "git_blob_sha1": "432f686ec9685194833b85bcb3cda2bdc32ed15f"
+    },
+    {
+      "path": "assets/radar2plan/demos/planning-man-dark-gru.jpg",
+      "size": 99471,
+      "git_blob_sha1": "358b8c18b5082bae1d7d1297b0eaddf8e41a0767"
+    },
+    {
+      "path": "assets/radar2plan/demos/planning-man-dark-gru.mp4",
+      "size": 3427889,
+      "git_blob_sha1": "a011d039abb1b54fd560b4b58533096f8db05552"
+    },
+    {
+      "path": "assets/radar2plan/demos/planning-man-rain-gru.jpg",
+      "size": 126246,
+      "git_blob_sha1": "b91da2cf08d40a372fda483f5df85ac8e464273b"
+    },
+    {
+      "path": "assets/radar2plan/demos/planning-man-rain-gru.mp4",
+      "size": 4027794,
+      "git_blob_sha1": "a868aac52417242f85c0383198bbb76ada3d4915"
+    },
+    {
+      "path": "assets/radar2plan/demos/radar-only-dsert-clear-gru.jpg",
+      "size": 149133,
+      "git_blob_sha1": "4c6fdad9b03b3b718e9e72049534152eee1414fa"
+    },
+    {
+      "path": "assets/radar2plan/demos/radar-only-dsert-clear-gru.mp4",
+      "size": 2931685,
+      "git_blob_sha1": "b9bed844b0feabf2ffd4ab85ef2c65dffdd779bb"
+    },
+    {
+      "path": "assets/radar2plan/demos/radar-only-dsert-light-rain-sparse-query.jpg",
+      "size": 128196,
+      "git_blob_sha1": "6b10604cd8913910e01e7caaa1e69717cc9503fd"
+    },
+    {
+      "path": "assets/radar2plan/demos/radar-only-dsert-light-rain-sparse-query.mp4",
+      "size": 3114993,
+      "git_blob_sha1": "5282fdc442346dd4d38aaf33f1f889f1f20d5683"
+    },
+    {
+      "path": "assets/radar2plan/demos/radar-only-man-overcast-diffusion.jpg",
+      "size": 179420,
+      "git_blob_sha1": "d84773853e0f75f060b7cf144bd717340e32e663"
+    },
+    {
+      "path": "assets/radar2plan/demos/radar-only-man-overcast-diffusion.mp4",
+      "size": 3063723,
+      "git_blob_sha1": "954dbb6a2bdbe9738a2755595a893052cb44aa39"
+    },
+    {
+      "path": "assets/radar2plan/demos/radar-only-man-overcast-vocabulary.jpg",
+      "size": 182647,
+      "git_blob_sha1": "8f26e32d73f2a264eaca54a5ec6cea591660fefe"
+    },
+    {
+      "path": "assets/radar2plan/demos/radar-only-man-overcast-vocabulary.mp4",
+      "size": 3159888,
+      "git_blob_sha1": "0bc58c4cc0521bffcb657c7b3e7887b18ed0cb38"
+    },
+    {
+      "path": "assets/radar2plan/demos/sensing-clear.jpg",
+      "size": 220862,
+      "git_blob_sha1": "0a69385d329ac1f974f7bc467a0dc9a302ff74dc"
+    },
+    {
+      "path": "assets/radar2plan/demos/sensing-clear.mp4",
+      "size": 2169237,
+      "git_blob_sha1": "f054e2fa868709b4f382ed237294417f3338f5b7"
+    },
+    {
+      "path": "assets/radar2plan/demos/sensing-fog.jpg",
+      "size": 100475,
+      "git_blob_sha1": "78c771795307b76f743449d3a1bd098b9df6d591"
+    },
+    {
+      "path": "assets/radar2plan/demos/sensing-fog.mp4",
+      "size": 1970503,
+      "git_blob_sha1": "7ea3e513c31046483461f290de9dc80d771a65a8"
+    },
+    {
+      "path": "assets/radar2plan/demos/sensing-heavy-rain.jpg",
+      "size": 146057,
+      "git_blob_sha1": "7beca6d50de8af45da7bfbdd696b3fa8cc4e0d25"
+    },
+    {
+      "path": "assets/radar2plan/demos/sensing-heavy-rain.mp4",
+      "size": 2086107,
+      "git_blob_sha1": "4610096c4fa4edbb61e1dd26c726b90257f9abf6"
+    },
+    {
+      "path": "assets/radar2plan/demos/sensing-heavy-snow.jpg",
+      "size": 85902,
+      "git_blob_sha1": "8eb45bfee45fa51ef1076ea519b0a862dc7bd538"
+    },
+    {
+      "path": "assets/radar2plan/demos/sensing-heavy-snow.mp4",
+      "size": 1899243,
+      "git_blob_sha1": "f424bcd4a35f1f6e8af6d7afe0e8e5d3dd6cf4e0"
+    },
+    {
+      "path": "assets/radar2plan/demos/sensing-light-snow.jpg",
+      "size": 123181,
+      "git_blob_sha1": "bf85259ba53f761c4f0204563b05bbeb4df56949"
+    },
+    {
+      "path": "assets/radar2plan/demos/sensing-light-snow.mp4",
+      "size": 2055261,
+      "git_blob_sha1": "3852cf10dab4e6725880ce1258a25c930f641487"
+    },
+    {
+      "path": "assets/radar2plan/demos/sensing-night.jpg",
+      "size": 140010,
+      "git_blob_sha1": "1284fa503ff7d61e5c5bc6b226c03c88fd380120"
+    },
+    {
+      "path": "assets/radar2plan/demos/sensing-night.mp4",
+      "size": 2049670,
+      "git_blob_sha1": "afe5a89eb498d25ce7b605acad5bcb7a1ba7c651"
+    },
+    {
+      "path": "assets/radar2plan/overview-no-cover.jpg",
+      "size": 113995,
+      "git_blob_sha1": "e41d93595c608c50efed6301a85e94c14defe1aa"
+    },
+    {
+      "path": "assets/radar2plan/overview-no-cover.mp4",
+      "size": 36233152,
+      "git_blob_sha1": "f237d151fa7e35e42d268fccf955b89db40b5b2c"
+    },
+    {
+      "path": "research/radar2plan/architecture.webp",
+      "size": 199878,
+      "git_blob_sha1": "bc8dea514b39e9a8c2cb465331ad4d2a62bcf77d"
+    },
+    {
+      "path": "research/radar2plan/qualitative.webp",
+      "size": 227238,
+      "git_blob_sha1": "51f72a602365ae22ea819ad0b5dad80a51311224"
+    }
+  ]
+}
